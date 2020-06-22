@@ -1,0 +1,95 @@
+About Us
+
+Morgan Stanley is a leading global financial services firm providing a wide range of investment banking, securities, investment management and wealth management services. The Firm's employees serve clients worldwide including corporations, governments and individuals from more than 1,200 offices in 43 countries. As a market leader, the talent and passion of our people is critical to our success. Together, we share a common set of values rooted in integrity, excellence and strong team ethic. We provide you a superior foundation for building a professional career where you can learn, achieve and grow. A philosophy that balances personal lifestyles, perspectives and needs is an important part of our culture.
+
+Technology at Morgan Stanley
+
+Technology is the key differentiator that ensures that we manage our global businesses and serve clients on a market-leading platform that is resilient, safe, efficient, smart, fast and flexible. Technology redefines how we do business in global, complex and dynamic financial markets. We have a large number of award winning technology platforms that help to propel our Firm’s businesses to be the top in the market. Our India technology teams are based in Mumbai and Bengaluru. We have built strong techno-functional teams which partner with our offices globally taking global ownership of systems and products. We have a vibrant and diverse mix of technologists working on different technologies and functional domains. There is a large focus on innovation, inclusion, giving back to the community and sharing knowledge.
+
+Enterprise Technology & Services (ETS) delivers shared technology services for the Firm supporting all business applications and end users. ETS provides capabilities for all stages of the Firm’s software development lifecycle, enabling productive coding, functional and integration testing, application releases, and ongoing monitoring and support for over 3,000 production applications. ETS also delivers all workplace technologies (desktop, mobile, voice, video, productivity, intranet/internet) in integrated configurations that boost the personal productivity of our employees. Application and end user services are delivered on a scalable, secure, and reliable infrastructure composed of seamlessly integrated datacenter, network, compute, cloud, storage, and database services.
+Core Infrastructure (CI) provides a stable, flexible, and resilient computing platform, and a service-based, agile environment. CI also offers access to the private and public cloud and enables secure self-service and automation
+
+Position Description
+
+We are seeking an experienced Product Owner to support multiple projects and initiatives on the Workplace Support Services (WSS) Automation team. The ideal candidate must be a visionary and leader for the team. Someone who will identify potential automation opportunities, gather requirements from stakeholders, measure benefits and help turn vision into reality. This individual will demonstrate knowledge and experience in Agile principles. As Product Owner, you will gather feature requests, schedule releases and coordinate sprints. You should be able to identify user needs, help a customer understand a business value and work with cross-functional teams to manage product releases. Someone who is truly customer obsessed and dedicated, while looking for opportunities to innovate and take thoughtful risk in order to get things done better and faster.
+
+Job Functions/Duties And Responsibilities
+
+
+Convey the team vision, goals and provide direction. Define overall product strategy and direction. Act as a decision maker while empowering the squad.
+
+Define and communicate customer needs. Engage proactively with customers to better understand their needs. Represent the customer’s voice to help the squad members with real-time feedback from customers and their stakeholders
+
+The candidate will work with Infrastructure team, development teams, other support teams, and drive efficient planning and execution.
+
+Engage with internal and external stakeholders. Ensure organizational alignment of the squad’s mission and activities. Remove blockers that prevent progress.
+
+Support and enable the squad. Regularly engage with the squad to offer feedback on work in progress, clarify requirements and answer questions.
+
+Maintain and prioritize backlog. Refine backlog to ensure squad has the right direction to deliver business value consistently
+
+Prioritize work through a well-groomed backlog of user stories and clearly communicate what needs to be done and by when. Define and communicate acceptance criteria based on business & customer needs
+
+Promote Agile working style. Foster a culture of continuous learning and development
+
+Participate in Agile ceremonies. Daily standups, Retrospectives
+
+Facilitate Agile ceremonies. Backlog refinement, Sprint Planning, Sprint Review/Demo
+
+
+Skills Required
+
+
+The ideal candidate for this position will have at least 12 years of program and project management experience with an ability to think tactically as well as strategically while coordinating cross functional teams in a matrixed environment.
+
+3-5 years serving as an Agile Product Owner within high performing, cross functional teams.
+
+Collaboration across technology organization, providing sound business analysis, process and change leadership within a maturing, Agile PDLC framework
+
+Individual with high-level perspective to define goals and create a vision for development projects.
+
+Demonstrated capabilities in successfully leading enterprise wide programs and projects.
+
+High degree of business acumen and technical competency; ability to balance and bridge technology and business needs; project and program management.
+
+Leadership skills in building team from the scratch and leading them effectively
+
+Working with infrastructure delivery and support teams to ensure a smooth transition of new capability into production.
+
+Self-motivated with exceptional oral and written communication skills, ability to communicate clearly and concisely
+
+Demonstrated ability to manage multiple projects simultaneously and to resolve scheduling and other conflicts in order to meet all deadlines.
+
+Develop and continually revise (in partnership with other teams where necessary) suitable processes and guidelines to ensure appropriate application development standards are available to guide all the participant teams.
+
+Experience in working with agile lifecycle and/or tracking and process management tools, e.g. JIRA
+
+Deep skills in program management tools, including Microsoft Project, Access, Word, Excel, Visio, and SharePoint.
+
+Exceptional people management skills – able to work with all levels within their portfolio
+
+Ability to learn technical concepts quickly
+
+Technical working knowledge of programming languages (Java and Python etc.) in order to lead the team towards the right solutions and improvements.
+
+Knowledge of end to end product development concepts including risk, audit, controls, and legal and compliance
+
+Accountability for each stage of the development process and final product
+
+
+Skills Desired
+
+
+Knowledge of Financial markets, Institutional Banking & Wealth Management business
+
+Experience in working on Technology projects related to Financial Services domain.
+
+Knowledge of Banking technology & related applications
+
+Formal Agile Product Owner training
+
+Experience automating End User Technology support processes (i.e., Global Service Desk functions, Desktop Change Management, Desktop Software Distribution, etc.)
+
+Kanban is also a plus
+
+Lead generation

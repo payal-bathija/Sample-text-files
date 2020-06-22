@@ -1,0 +1,37 @@
+Backend Developer
+
+
+
+Nference (http://nference.ai) is a rapidly growing company founded by successful serial entrepreneur, Murali Aravamudan and award-winning scientist, Venky Soundararajan. We are headquartered in Cambridge, Massachusetts, USA. The company helps the world make better use of the petabytes of data that the biomedical industry creates. Our core technology is driven by some of the most advanced machine learning and natural language processing techniques and is evidenced to help real doctors, scientists and researchers make better decisions to improve the health of the world.
+
+In addition to significantly expanding their team out of our Cambridge (USA) HQ, we have recently established an office in Bengaluru (nference Labs), specializing in Artificial Intelligence (AI) and software development for synthesizing the World's biomedical knowledge. We are currently a team of ~80 engineers and scientists from the MIT and Harvard community, and counting. nference has raised $75M investment (from Mayo Clinic Ventures, NTT Venture Capital, Matrix Ventures and Matrix Capital Management), and has also established a partnership with Mayo Clinic to assimilate 5M+ longitudinal patient records for AI/ML/neural networks model development (https://endpts.com/ai-drug-discovery-success-inspires-a- machine-learning-startup-at-the-mayo-clinic/). We are currently are partnering with a couple of the top 10 pharmaceutical companies on significant R&D deals. In anticipation of heavy growth in clientele, we are looking to extend their success via nference Labs in Bangalore, India and intend to recruit aggressively from top colleges cross India
+
+
+
+Role:- Backend Engineer
+
+Location:- Bangalore
+
+Must have
+
+5+ years exp with solid backend/engineering experience
+
+Knowledge of data structures and an eye for architecture.
+
+Solid CS fundamentals, fluent in multi-threaded and asynchronous programming, a strong inclination for architecting at scale.
+
+Excellent technical design, problem-solving, debugging, and communication skills.
+
+Rapid proto-typing worked on distributed systems at scale.
+
+Basic knowledge of SQL as well as NoSQL databases.
+
+Proficient in golang, it's deign, and concurrency patterns.
+
+Good to have
+
+Proficient in writing unit tests and profiling and benchmarking golang applications
+
+Experience in maintaining protobuf contract
+
+Experience in working with grpc and grace

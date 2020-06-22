@@ -1,0 +1,35 @@
+Cloud Engineer
+
+About Us
+
+Morgan Stanley is a leading global financial services firm providing a wide range of investment banking, securities, investment management and wealth management services. We advise, originate, trade, manage and distribute capital for governments, institutions and individuals. As a market leader, the talent and passion of our people is critical to our success. Together, we share a common set of values rooted in integrity, excellence and strong team ethic. We provide you a superior foundation for building a professional career where you can learn, achieve and grow.
+
+Technology/Role/Department at Morgan Stanley
+
+Technology is the key differentiator that ensures that we manage our global businesses and serve clients on a market-leading platform that is resilient, safe, efficient, smart, fast and flexible. Technology redefines how we do business in global, complex and dynamic financial markets. We have a large number of award winning technology platforms that help to propel our Firm’s businesses to be the top in the market. Our India technology teams are based in Mumbai and Bengaluru. We have built strong techno-functional teams which partner with our offices globally taking global ownership of systems and products. We have a vibrant and diverse mix of technologists working on different technologies and functional domains. There is a large focus on innovation, inclusion, giving back to the community and sharing knowledge.
+
+Job Responsibilities
+
+The Public Cloud Automation role is responsible for designing and developing automation capabilities for the Morgan Stanley Public Cloud, supporting both Azure and AWS. In this role, you will build the tools and automations that allow our development and business teams to leverage the public cloud in a fast, repeatable and secure manner. The ideal candidate is one with good communication and teamwork skills to complement a strong technical foundation.
+
+Required Skills
+
+
+Hands-on Public Cloud experience
+
+Expertise with Python and Infrastructure as Code tools (e.g. Terraform, Ansible, etc.)
+
+Experience building RESTful interfaces
+
+Experience with Agile development methodology and CI/CD
+
+Experience with tools such as GIT, Jira and Bitbucket
+
+Golang, AngularJS
+
+Experience with Microservices architecture design patterns
+
+Desired Skills
+
+
+A minimum of 5 years of engineering / development experience required.
